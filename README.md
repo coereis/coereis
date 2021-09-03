@@ -5,8 +5,8 @@
 
 <div>
     <a href="https://github.com/coereis">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=coereis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coereis&layout=compact&langs_count=7&theme=dark"/>
+  <img height"180cm" src="https://github-readme-stats.vercel.app/api?username=coereis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coereis&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
