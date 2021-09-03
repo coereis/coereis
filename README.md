@@ -1,8 +1,7 @@
 ### Reis
-
-- 🔭 Atualmente estudando C#
-- Tenho 17 anos
-- Discord: reis#8965
+- 🔧 Back-end Developer
+- 🎓 Atualmente estudando C#
+- 🕗 Tenho 17 anos
 
 <div>
     <a href="https://github.com/coereis">
